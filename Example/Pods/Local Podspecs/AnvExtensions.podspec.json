@@ -1,0 +1,22 @@
+{
+  "name": "AnvExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of AnvExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hip4yes/AnvExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hip4yes": "narhipov92@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hip4yes/AnvExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AnvExtensions/Classes/**/*"
+}

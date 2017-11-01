@@ -1,0 +1,6 @@
+framework module AnvExtensions {
+  umbrella header "AnvExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

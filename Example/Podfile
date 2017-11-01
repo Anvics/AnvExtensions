@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AnvExtensions_Tests' do
+  pod 'AnvExtensions', :path => '../'
+  
+  
+end
